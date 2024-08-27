@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #d165ba;
     padding: 10px;
 }
 
@@ -33,7 +33,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #3e8e41;
+    background-color: #db75d3;
     border-radius: 5px;
 }
 
@@ -43,7 +43,7 @@ main {
 
 h1 {
     font-family: 'Georgia', serif;
-    color: #2c3e50;
+    color: #5f1a4d;
 }
 
 p {
